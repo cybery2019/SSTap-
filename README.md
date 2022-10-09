@@ -22,6 +22,7 @@ SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代�
 ![](https://www.hereitis.cn/profile/upload/2022/10/09/08f9c6b5-f7bc-4686-8440-fc2283771af4.png)
 
 3、将订阅网址添加到列表中  如图：
+
 ![](https://www.hereitis.cn/profile/upload/2022/10/09/fb2b5513-60ec-42b2-b9ee-cc91a9c03137.png)
 
 4、关闭此窗口后，将会自动更新可用的节点信息。可任选一个可用节点，点击闪电图标进行测试  如图：
